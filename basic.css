@@ -22,3 +22,9 @@ body{
     flex-direction: column;
     justify-content: space-between;
 }
+
+.position-sub-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
